@@ -8,6 +8,8 @@
 
 # :hammer_and_wrench: Concurrent Web Server
 
+[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://arsw-concurrent-webserver.herokuapp.com/)
+
 Implementación propia de un servidor web concurrente usando pools de hilos.
 
 Consulta sin especificar recurso:
@@ -20,13 +22,19 @@ Consulta a recurso html:
 
 ![](../media/3.png?raw=true)
 
+![](../media/3.2.png?raw=true)
+
 Consulta a recurso css y a recurso inexistente:
 
 ![](../media/4.png?raw=true)
 
+![](../media/4.2.png?raw=true)
+
 Consulta a recurso js y a a recurso jpg:
 
 ![](../media/5.png?raw=true)
+
+![](../media/5.2.png?raw=true)
 
 ## Getting Started
 
